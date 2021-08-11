@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="switch_top_rated">Наиболее рейтинговые</string>
+    <string name="switch_popular">Наиболее популярные</string>
+    <string name="description">Описание:</string>
+    <string name="release_date">Дата релиза:</string>
+    <string name="rating">Рейтинг:</string>
+    <string name="original_title">Оригинальное название:</string>
+    <string name="title">Название:</string>
+    <string name="add_to_favorite">Добавлено в избранное</string>
+    <string name="remove_from_favorite">Удалено из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favorite">Избранное</string>
+    <string name="launch_trailer">Запустить трейлер</string>
+</resources>
